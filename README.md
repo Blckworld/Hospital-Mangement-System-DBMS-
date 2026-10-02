@@ -37,6 +37,8 @@ The project consists of three main entities:
 
 Stores information about registered patients, including their unique patient ID and other relevant details.
 
+<img width="940" height="115" alt="image" src="https://github.com/user-attachments/assets/e02eab49-34fb-421e-934f-cfacb1298081" />
+
 ### 👨‍⚕️ Doctor
 
 Stores information about doctors and their details, including their association with patients.
