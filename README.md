@@ -37,15 +37,21 @@ The project consists of three main entities:
 
 Stores information about registered patients, including their unique patient ID and other relevant details.
 
-<img width="940" height="115" alt="image" src="https://github.com/user-attachments/assets/e02eab49-34fb-421e-934f-cfacb1298081" />
+<img width="940" height="189" alt="image" src="https://github.com/user-attachments/assets/b7ca80c8-0510-460b-982b-57d0c621bdc2" />
+
 
 ### 👨‍⚕️ Doctor
 
 Stores information about doctors and their details, including their association with patients.
+<img width="945" height="256" alt="image" src="https://github.com/user-attachments/assets/0e550151-3876-4a51-b949-2c73d19d785f" />
+
+
 
 ### 👩‍⚕️ Nurse
 
 Stores information about nurses and their relationship with patients.
+<img width="917" height="241" alt="image" src="https://github.com/user-attachments/assets/d0df9ab2-7c03-4cc8-89d0-ebe861f9960d" />
+
 
 ## 🔗 Database Relationships
 
